@@ -1,0 +1,10 @@
+50x        PCB2-M3 Terminals 
+70x        Red LED 3mm 
+10x        2x8 Shrouded IDC header 90 degree
+100x       100R  1206 Resistors
+100x       2K    1206 Resistors
+70x        FS312F-G Li-ion Protection IC in SOT23-6
+70x        FS8205 Dual N Channel Mosfet in SOT23-6
+70x        18650 SINGLE Cell holder PTH
+70x        HY2213 Li-ion Balance Charge IC in SOT23-6
+70x        SI2302cds Mosfet in SOT23-3
